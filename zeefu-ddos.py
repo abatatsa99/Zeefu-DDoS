@@ -122,7 +122,7 @@ time_loader = time.time() + int(input(f"{Fore.LIGHTGREEN_EX}TIME ⟩•> {Fore.W
 spam_loader = int(input(f"{Fore.LIGHTGREEN_EX}SPAM THREAD ⟩•> {Fore.WHITE}"))
 create_thread = int(input(F"{Fore.LIGHTGREEN_EX}CREATE THREAD ⟩•> {Fore.WHITE}"))
 booter_sent = int(input(F"{Fore.LIGHTGREEN_EX}BOOTER SENT ⟩•> {Fore.WHITE}"))
-print(f"{Fore.LIGHTCYAN_EX}       EXAMPLE HTTP METHODS> CONNECT GET PUT PATCH POST HEAD DELETE OPTIONS TRACE")
+print(f"{Fore.LIGHTCYAN_EX}       EXAMPLE HTTP METHODS> CONNECT GET PUT PATCH POST HEAD ")
 print(f"{Fore.LIGHTBLACK_EX}EXAMPLE CUSTOM HTTP METHODS> PANOS MIRAI EXPLOIT LOGSHELL SERVER CLOUDFLARE AGE PYFLOODER GATEWAY")
 methods_loader = input(F"{Fore.LIGHTGREEN_EX}HTTP_METHODS (EXAMPLE=GATEWAY)⟩•> {Fore.WHITE}").upper()
 spam_create_thread = int(input(F"{Fore.LIGHTGREEN_EX}SPAM CREATE THREAD (DEFAULT=5,15)⟩•> {Fore.WHITE}"))
