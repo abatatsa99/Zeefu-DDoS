@@ -116,7 +116,7 @@ host = ""
 ip = ""
 print(f"{Fore.LIGHTBLACK_EX}PYF OWN1-5")
 data_type_loader_packet = input(F"{Fore.LIGHTGREEN_EX}TYPE PACKET (OWN1,2,3,4,5)⟩•> {Fore.WHITE}").upper()
-target_loader = input(f"{Fore.LIGHTGREEN_EX}IP/URL ⟩•> {Fore.WHITR}")
+target_loader = input(f"{Fore.LIGHTGREEN_EX}IP/URL ⟩•> {Fore.WHITE}")
 port_loader = int(input(f"{Fore.LIGHTGREEN_EX}PORT ⟩•> {Fore.WHITE}"))
 time_loader = time.time() + int(input(f"{Fore.LIGHTGREEN_EX}TIME ⟩•> {Fore.WHITE}"))
 spam_loader = int(input(f"{Fore.LIGHTGREEN_EX}SPAM THREAD ⟩•> {Fore.WHITE}"))
