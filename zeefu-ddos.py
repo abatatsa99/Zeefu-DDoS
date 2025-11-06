@@ -125,6 +125,17 @@ banner = f"""
 {Fore.GREEN}••>Please wait..."""
 
 print(banner)
+while attemps < 100:
+    username = input({Fore.CYAN} Username: {Fore.WHITE}")")
+    password = input({Fore.CYAN} Password: {Fore.WHITE}")")
+
+    if username == 'zfff' and password == 'zfff':
+        print("\033[32m⟩⟩ Hai...! Welcome to ZEFFU-DD0S \033[0m")
+        break
+    else:
+        print('Incorrect credentials. Check if you have Caps lock on and try again.')
+        attemps += 1
+        continue
 host = ""
 ip = ""
 print(f"{Fore.LIGHTBLACK_EX}PYF OWN1-5")
