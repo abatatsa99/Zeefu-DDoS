@@ -126,7 +126,7 @@ banner = f"""
 
 print(banner)
 while attemps < 100:
-    username = input(f"{Fore.CYAN} Username: {Fore WHITE}")
+    username = input(f"{Fore.CYAN} Username: {Fore.WHITE}")
     password = input(f"{Fore.CYAN} Password: {Fore.WHITE}")
 
     if username == 'zfff' and password == 'zfff':
