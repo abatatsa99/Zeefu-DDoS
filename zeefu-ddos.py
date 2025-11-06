@@ -98,7 +98,7 @@ def runing_attack(ip,host,port_loader,time_loader,spam_loader,methods_loader,boo
 #DATA
 attemps = 0
 banner = f"""
-{Fore.YELLOW}╔═══════════════════════════════════════════════════════════════════╗
+{Fore.YELLOW}╔════════════════════════════════════════════════════════════════════════╗
 {Fore.YELLOW}║{Fore.GREEN}                         .-----,        .-----.            
 {Fore.YELLOW}║{Fore.GREEN}                        /       \  __  /       \                
 {Fore.YELLOW}║{Fore.GREEN}                       / /       \(  )/       \ \              
@@ -120,10 +120,10 @@ banner = f"""
 {Fore.YELLOW}║{Fore.RED}   ██{Fore.WHITE}  ╚═══════{Fore.YELLOW} ██{Fore.GREEN} ╚════════╗{Fore.WHITE}██{Fore.YELLOW} ╚════════╗{Fore.LIGHTMAGENTA_EX}██{Fore.LIGHTBLUE_EX} ╚═╗      ██{Fore.RED} ╚════{Fore.LIGHTBLUE_EX}██{Fore.RED} ║
 {Fore.YELLOW}║{Fore.RED}  ███████████{Fore.WHITE}═╝{Fore.YELLOW} ██████████{Fore.GREEN}═╝{Fore.WHITE} ██████████{Fore.YELLOW}═╝{Fore.LIGHTMAGENTA_EX} ██{Fore.LIGHTBLUE_EX}═╝         ████████{Fore.RED}══╝
 {Fore.YELLOW}║
-{Fore.YELLOW}╚═════════════════════════════════════════════════════════════════╝
-{Fore.GREEN}╔══════════════════════════════════════════════════════════════════╗
-{Fore.GREEN}║{Fore.YELLOW}   Design By: Kun/https://github.com/abatatsa99                  {Fore.GREEN}║
-{Fore.GREEN}╚══════════════════════════════════════════════════════════════════╝
+{Fore.YELLOW}╚══════════════════════════════════════════════════════════════════════╝
+{Fore.GREEN}╔═══════════════════════════════════════════════════════════════════════╗
+{Fore.GREEN}║{Fore.YELLOW}   Design By: Kun/https://github.com/abatatsa99                       {Fore.GREEN}║
+{Fore.GREEN}╚═══════════════════════════════════════════════════════════════════════╝
 {Fore.GREEN}••>Please wait..."""
 
 print(banner)
