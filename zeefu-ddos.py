@@ -126,12 +126,12 @@ banner = f"""
 
 print(banner)
 while attemps < 100:
-    print(f"{Fore.CYAN}┏━━Zeefu━━⬣")
-    username = input(f"{Fore.CYAN}┗> Username: {Fore.WHITE}")
-    password = input(f"{Fore.CYAN}┗> Password: {Fore.WHITE}")
+    print(f"{Fore.YELLOW}┏━━Zeefu━━⬣")
+    username = input(f"{Fore.YELLOW}┗> {Fore.CYAN}Username: {Fore.WHITE}")
+    password = input(f"{Fore.YELLOW}┗> {Fore.CYAN}Password: {Fore.WHITE}")
 
     if username == 'zfff' and password == 'zfff':
-        print("\033[32m⟩⟩ Hai...! Welcome to ZEFFU-DD0S \033[0m")
+        print("\033[104m \033[97mHai...! Welcome to ZEFFU-DD0S \033[0m")
         break
     else:
         print('Incorrect credentials. Check if you have Caps lock on and try again.')
