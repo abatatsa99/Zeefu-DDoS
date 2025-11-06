@@ -107,8 +107,8 @@ banner = f"""
 {Fore.GREEN}                   // /  //      //..\\\        \\  \ \\
 {Fore.GREEN}                  //            //,..,\\\            \\\            
 {Fore.GREEN}                             ====UU====UU====
-{Fore.GREEN}                              /////||\\\\\     
-{Fore.GREEN}                               ////||\\\\
+{Fore.GREEN}                               /////||\\\\\     
+{Fore.GREEN}                                ////||\\\\
 {Fore.GREEN}                                  ''``
 {Fore.WHITE}  ╔═══════════{Fore.GREEN}   ╔══════════{Fore.YELLOW}  ╔══════════╗{Fore.LIGHTBLUE_EX} ╔═════════╗{Fore.RED}╔══╗    ╔══╗
 {Fore.RED} ██████████{Fore.WHITE}  ║{Fore.YELLOW}  ██████████{Fore.GREEN}═╝{Fore.WHITE} ██████████{Fore.YELLOW}═╝{Fore.LIGHTMAGENTA_EX} ██████████{Fore.LIGHTBLUE_EX}═╝██{Fore.RED} ║{Fore.LIGHTBLUE_EX}    ██{Fore.RED} ║
@@ -126,8 +126,9 @@ banner = f"""
 
 print(banner)
 while attemps < 100:
-    username = input(f"{Fore.CYAN} Username: {Fore.WHITE}")
-    password = input(f"{Fore.CYAN} Password: {Fore.WHITE}")
+    f"{Fore.CYAN}┏━━━━━━━⬣")
+    username = input(f"{Fore.CYAN}┗> Username: {Fore.WHITE}")
+    password = input(f"{Fore.CYAN}┗> Password: {Fore.WHITE}")
 
     if username == 'zfff' and password == 'zfff':
         print("\033[32m⟩⟩ Hai...! Welcome to ZEFFU-DD0S \033[0m")
