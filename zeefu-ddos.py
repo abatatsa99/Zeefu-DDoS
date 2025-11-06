@@ -100,9 +100,9 @@ banner = f"""
 {Fore.GREEN}                         .-----,        .-----.            
 {Fore.GREEN}                        /       \  __  /       \                
 {Fore.GREEN}                       / /       \(  )/       \ \              
-{Fore.GREEN}                      //////     . \/ -       \\\\\\\                  
+{Fore.GREEN}                      //////     . \/ .       \\\\\\\                  
 {Fore.GREEN}                     //// / //   :    :      \\ \ \\\\                    
-{Fore.GREEN}                    // /   /     '`  ''       \\  \ \\ 
+{Fore.GREEN}                    // /   /     '`  `'       \\  \ \\ 
 {Fore.GREEN}                   // /  //    / //..\\\        \\  \ \\
 {Fore.GREEN}                  //          / //,..,\\\           \\\            
 {Fore.GREEN}                                                                      
