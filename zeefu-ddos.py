@@ -112,7 +112,7 @@ banner = f"""
 {Fore.YELLOW}║{Fore.GREEN}                                ////||\\\\
 {Fore.YELLOW}║{Fore.GREEN}                                  ''``
 {Fore.YELLOW}║{Fore.WHITE}  ╔═══════════{Fore.GREEN}   ╔══════════{Fore.YELLOW}  ╔══════════╗{Fore.LIGHTBLUE_EX} ╔═════════╗{Fore.RED}╔══╗    ╔══╗
-{Fore.YELLOW}║{Fore.YELLOW} ║ {Fore.RED} ██████████{Fore.WHITE}  ║{Fore.YELLOW}  ██████████{Fore.GREEN}═╝{Fore.WHITE} ██████████{Fore.YELLOW}═╝{Fore.LIGHTMAGENTA_EX} ██████████{Fore.LIGHTBLUE_EX}═╝██{Fore.RED} ║{Fore.LIGHTBLUE_EX}    ██{Fore.RED} ║
+{Fore.YELLOW}║{Fore.YELLOW} ║{Fore.RED}██████████{Fore.WHITE}  ║{Fore.YELLOW}  ██████████{Fore.GREEN}═╝{Fore.WHITE} ██████████{Fore.YELLOW}═╝{Fore.LIGHTMAGENTA_EX} ██████████{Fore.LIGHTBLUE_EX}═╝██{Fore.RED} ║{Fore.LIGHTBLUE_EX}    ██{Fore.RED} ║
 {Fore.YELLOW}║{Fore.RED}        ██{Fore.WHITE}  ║{Fore.YELLOW}   ██{Fore.GREEN} ║{Fore.WHITE}         ██{Fore.YELLOW} ║{Fore.LIGHTMAGENTA_EX}         ██{Fore.LIGHTBLUE_EX} ║        ██{Fore.RED} ║{Fore.LIGHTBLUE_EX}    ██{Fore.RED} ║
 {Fore.YELLOW}║{Fore.RED}      ██{Fore.WHITE}  ║{Fore.YELLOW}     ██{Fore.GREEN} ╚═══════╗{Fore.WHITE} ██{Fore.YELLOW} ╚═══════╗{Fore.LIGHTMAGENTA_EX} ██{Fore.LIGHTBLUE_EX} ╚═══════╗██{Fore.RED} ║{Fore.LIGHTBLUE_EX}    ██{Fore.RED} ║
 {Fore.YELLOW}║{Fore.RED}     ██{Fore.WHITE}  ║{Fore.YELLOW}      █████████{Fore.GREEN}═╝{Fore.WHITE}  █████████{Fore.YELLOW}═╝{Fore.LIGHTMAGENTA_EX}  █████████{Fore.LIGHTBLUE_EX}═╝ ██{Fore.RED} ║{Fore.LIGHTBLUE_EX}    ██{Fore.RED} ║
